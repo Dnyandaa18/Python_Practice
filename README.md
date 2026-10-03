@@ -1,35 +1,41 @@
-# Python_Practice
+# Python Practice
 
-A collection of Python practice programs and exercises created while strengthening my programming fundamentals and problem-solving skills.
+A collection of Python programs built to strengthen programming fundamentals, logical thinking, and problem-solving through hands-on practice.
 
-This repository is focused on **hands-on practice** — writing small programs, experimenting with Python concepts, and improving my ability to solve problems independently.
+## 📌 Programs Included
 
-## 📚 What This Repository Covers
+* Mad Libs Game
+* Calculator
+* Weight Converter
+* Temperature Converter
+* Interest Calculator
+* Countdown Timer
+* Shopping Cart
+* Quiz Game
+* Restaurant Ordering Program
+* Number Guessing Game
+* Rock Paper Scissors
+* Dice Roller
+* Banking Program
+* Slot Machine
+* Encryption Program
 
-The practice programs may include:
+## 🧠 Concepts Practiced
 
-* Python fundamentals
 * Variables and data types
 * Conditional statements
 * Loops
 * Functions
-* Strings and collections
-* Lists, tuples, sets and dictionaries
-* Problem-solving exercises
-* Small programming challenges
-* Concept-based experiments
-* Practice programs based on topics I'm currently learning
+* Strings and user input
+* Lists and collections
+* Randomization
+* Basic calculations and logic
+* Problem-solving
+* Building small command-line programs
 
 ## 🎯 Purpose
 
-The main goals of this repository are to:
-
-* Practice Python regularly
-* Strengthen programming fundamentals
-* Improve logical thinking and problem-solving
-* Turn concepts into working code
-* Experiment with different approaches to solving problems
-* Track my progress over time
+This repository documents my hands-on Python practice as I build stronger programming fundamentals and improve my ability to turn concepts into working programs.
 
 ## 🛠️ Tools
 
